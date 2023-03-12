@@ -1,0 +1,8 @@
+3 Jessie Joybat 5 2 1 1
+1 Alex Starovoitov 3 4 2 1
+1 Alex Starovoitov 2 5 9 2
+2 Dmitriy Vdovichenko 5 4 1 9
+0 Paul Tichonov 4 3 2 1
+2 Dmitriy Vdovichenko 5 4 3 9
+0 Paul Tichonov 4 3 2 5
+3 Jessie Joybat 5 2 4 1
